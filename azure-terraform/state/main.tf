@@ -2,7 +2,7 @@ terraform {
   required_providers {
     azurerm = {
       source  = "hashicorp/azurerm"
-      version = "=3.0.0"
+      version = "=3.0.21"
     }
   }
 
@@ -29,4 +29,4 @@ provider "azurerm" {
 # provider "vault" {
 #   address = "http://127.0.0.1:8200"
 #   token   = "hvs.Qudfb5teI8aUQMS8CigOdynJ"
-#}
+# }
