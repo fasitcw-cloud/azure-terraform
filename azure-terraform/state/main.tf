@@ -26,7 +26,7 @@ provider "azurerm" {
   client_secret   = "zxy8Q~cgnRnhbVNKwukWBvEs_XxS1F3If4TjScmU"
 }
 
-provider "vault" {
-  address = "http://127.0.0.1:8200"
-  token   = "hvs.Qudfb5teI8aUQMS8CigOdynJ"
-}
+# provider "vault" {
+#   address = "http://127.0.0.1:8200"
+#   token   = "hvs.Qudfb5teI8aUQMS8CigOdynJ"
+# }
