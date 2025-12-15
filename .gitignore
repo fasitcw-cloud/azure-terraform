@@ -1,0 +1,10 @@
+# Terraform directories and files to ignore
+.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.*
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
